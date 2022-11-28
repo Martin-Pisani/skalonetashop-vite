@@ -1,0 +1,1 @@
+# skalonetashop-vite
